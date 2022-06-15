@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\dev\ws\DIO\dio-dominando-ides-java\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2707940638.index
+3194711644.index
